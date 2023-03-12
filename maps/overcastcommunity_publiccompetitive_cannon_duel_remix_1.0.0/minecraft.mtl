@@ -1,0 +1,38 @@
+
+newmtl minecraft_block-cyan_terracotta
+Kd 0.3401 0.3569 0.3569
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_terracotta.png
+
+newmtl minecraft_block-pink_terracotta
+Kd 0.6350 0.3070 0.3085
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pink_terracotta.png
+
+newmtl minecraft_block-black_stained_glass
+Kd 0.0980 0.0980 0.0980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/black_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-light_gray_stained_glass
+Kd 0.6000 0.6000 0.6000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_gray_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-coal_block
+Kd 0.0628 0.0624 0.0624
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/coal_block.png
+
+newmtl minecraft_block-gray_stained_glass
+Kd 0.2980 0.2980 0.2980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gray_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-light_blue_terracotta
+Kd 0.4450 0.4256 0.5411
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_terracotta.png

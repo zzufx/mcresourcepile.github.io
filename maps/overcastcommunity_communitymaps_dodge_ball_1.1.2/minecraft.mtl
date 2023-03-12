@@ -1,0 +1,54 @@
+
+newmtl minecraft_entity-signs-oak
+Kd 0.6046 0.4878 0.2916
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/oak.png
+d 0.99
+
+newmtl minecraft_block-cyan_terracotta
+Kd 0.3401 0.3569 0.3569
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cyan_terracotta.png
+
+newmtl minecraft_block-stone_bricks
+Kd 0.4802 0.4777 0.4802
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/stone_bricks.png
+
+newmtl minecraft_block-torch
+Kd 0.5445 0.4447 0.2508
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/torch.png
+d 0.99
+
+newmtl minecraft_block-redstone_lamp_on
+Kd 0.5602 0.3994 0.2378
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_lamp_on.png
+
+newmtl minecraft_block-gray_stained_glass
+Kd 0.2980 0.2980 0.2980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gray_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-blue_terracotta
+Kd 0.2913 0.2341 0.3573
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_terracotta.png
+
+newmtl minecraft_block-gray_wool
+Kd 0.2461 0.2676 0.2806
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gray_wool.png
+
+newmtl minecraft_block-white_stained_glass
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/white_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-red_terracotta
+Kd 0.5612 0.2393 0.1839
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_terracotta.png

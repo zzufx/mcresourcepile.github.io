@@ -1,0 +1,52 @@
+
+newmtl minecraft_block-cobblestone
+Kd 0.5011 0.4992 0.5004
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/cobblestone.png
+
+newmtl minecraft_block-netherrack
+Kd 0.3827 0.1506 0.1506
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/netherrack.png
+
+newmtl minecraft_block-lava_still
+Kd 0.8504 0.4100 0.1033
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lava_still.png
+
+newmtl minecraft_block-obsidian
+Kd 0.0594 0.0416 0.0963
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/obsidian.png
+
+newmtl minecraft_entity-signs-oak
+Kd 0.6046 0.4878 0.2916
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/oak.png
+d 0.99
+
+newmtl minecraft_block-iron_bars
+Kd 0.5366 0.5459 0.5316
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_bars.png
+d 0.99
+
+newmtl minecraft_block-oak_planks
+Kd 0.6361 0.5130 0.3083
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/oak_planks.png
+
+newmtl minecraft_block-bedrock
+Kd 0.3338 0.3338 0.3338
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/bedrock.png
+
+newmtl minecraft_block-red_wool
+Kd 0.6313 0.1542 0.1358
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_wool.png
+
+newmtl minecraft_block-blue_wool
+Kd 0.2081 0.2245 0.6176
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_wool.png

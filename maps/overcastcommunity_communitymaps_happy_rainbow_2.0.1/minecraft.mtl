@@ -1,0 +1,175 @@
+
+newmtl minecraft_block-iron_block
+Kd 0.8632 0.8628 0.8628
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_block.png
+
+newmtl minecraft_block-yellow_terracotta
+Kd 0.7305 0.5221 0.1387
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_terracotta.png
+
+newmtl minecraft_block-purple_wool
+Kd 0.4779 0.1655 0.6765
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_wool.png
+
+newmtl minecraft_block-light_blue_wool
+Kd 0.2277 0.6865 0.8522
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_wool.png
+
+newmtl jmc2obj_banner-banner_base0-moj15-flo15-hhb1-gru15
+Kd 0.3882 0.3401 0.2868
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/banner/banner_base0-moj15-flo15-hhb1-gru15.png
+d 0.992obj/banner/banner_base0-moj15-flo15-hhb1-gru15.png
+
+newmtl minecraft_block-lime_terracotta
+Kd 0.4060 0.4615 0.2070
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_terracotta.png
+
+newmtl minecraft_block-purple_stained_glass
+Kd 0.4980 0.2471 0.6980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/purple_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-red_terracotta
+Kd 0.5612 0.2393 0.1839
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_terracotta.png
+
+newmtl minecraft_block-beacon
+Kd 0.4620 0.8664 0.8436
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/beacon.png
+
+newmtl jmc2obj_banner-banner_base0-moj15-flo15-hhb10-gru15
+Kd 0.3564 0.3172 0.3323
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/banner/banner_base0-moj15-flo15-hhb10-gru15.png
+d 0.992obj/banner/banner_base0-moj15-flo15-hhb10-gru15.png
+
+newmtl minecraft_block-orange_stained_glass
+Kd 0.8471 0.4980 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-lime_stained_glass
+Kd 0.4980 0.8000 0.0980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-lime_wool
+Kd 0.4400 0.7263 0.1012
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/lime_wool.png
+
+newmtl jmc2obj_banner-banner_base0-moj15-flo15-hhb12-gru15
+Kd 0.3475 0.3217 0.2868
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/banner/banner_base0-moj15-flo15-hhb12-gru15.png
+d 0.992obj/banner/banner_base0-moj15-flo15-hhb12-gru15.png
+
+newmtl minecraft_block-white_stained_glass
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/white_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-light_blue_terracotta
+Kd 0.4450 0.4256 0.5411
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_terracotta.png
+
+newmtl minecraft_block-white_wool
+Kd 0.9160 0.9267 0.9285
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/white_wool.png
+
+newmtl minecraft_block-green_stained_glass
+Kd 0.4000 0.4980 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-gold_block
+Kd 0.9663 0.8169 0.2417
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/gold_block.png
+
+newmtl minecraft_block-red_wool
+Kd 0.6313 0.1542 0.1358
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_wool.png
+
+newmtl minecraft_block-glass
+Kd 0.6895 0.8389 0.8589
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/glass.png
+d 0.99
+
+newmtl minecraft_block-obsidian
+Kd 0.0594 0.0416 0.0963
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/obsidian.png
+
+newmtl minecraft_block-yellow_wool
+Kd 0.9756 0.7763 0.1554
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_wool.png
+
+newmtl minecraft_block-red_stained_glass
+Kd 0.6000 0.2000 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-quartz_block_side
+Kd 0.9246 0.9016 0.8743
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/quartz_block_side.png
+
+newmtl minecraft_block-orange_wool
+Kd 0.9437 0.4631 0.0765
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/orange_wool.png
+
+newmtl minecraft_block-quartz_block_top
+Kd 0.9246 0.9016 0.8743
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/quartz_block_top.png
+
+newmtl minecraft_entity-signs-oak
+Kd 0.6046 0.4878 0.2916
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/oak.png
+d 0.99
+
+newmtl minecraft_block-blue_stained_glass
+Kd 0.2000 0.2980 0.6980
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/blue_stained_glass.png
+d 0.99
+
+newmtl minecraft_block-yellow_stained_glass
+Kd 0.8980 0.8980 0.2000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/yellow_stained_glass.png
+d 0.99
+
+newmtl jmc2obj_banner-banner_base0-moj15-flo15-hhb11-gru15
+Kd 0.3292 0.3217 0.3323
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/banner/banner_base0-moj15-flo15-hhb11-gru15.png
+d 0.992obj/banner/banner_base0-moj15-flo15-hhb11-gru15.png
+
+newmtl minecraft_block-light_blue_stained_glass
+Kd 0.4000 0.6000 0.8471
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_blue_stained_glass.png
+d 0.99
