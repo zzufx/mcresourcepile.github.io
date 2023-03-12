@@ -1,0 +1,119 @@
+
+newmtl minecraft_block-jack_o_lantern
+Kd 0.8414 0.5978 0.2075
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/jack_o_lantern.png
+
+newmtl minecraft_block-redstone_lamp
+Kd 0.3734 0.2142 0.1179
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_lamp.png
+
+newmtl minecraft_block-pumpkin_side
+Kd 0.7668 0.4503 0.0948
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pumpkin_side.png
+
+newmtl minecraft_block-red_wool
+Kd 0.6313 0.1542 0.1358
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/red_wool.png
+
+newmtl minecraft_block-netherrack
+Kd 0.3827 0.1506 0.1506
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/netherrack.png
+
+newmtl minecraft_block-black_wool
+Kd 0.0808 0.0835 0.1005
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/black_wool.png
+
+newmtl minecraft_entity-signs-oak
+Kd 0.6046 0.4878 0.2916
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/signs/oak.png
+d 0.99
+
+newmtl minecraft_block-iron_bars
+Kd 0.5366 0.5459 0.5316
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/iron_bars.png
+d 0.99
+
+newmtl minecraft_block-redstone_lamp_on
+Kd 0.5602 0.3994 0.2378
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_lamp_on.png
+
+newmtl jmc2obj_block-redstone_dust_line0
+Kd 0.4098 0.0000 0.0000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/block/redstone_dust_line0.png
+d 0.992obj/block/redstone_dust_line0.png
+
+newmtl minecraft_block-redstone_torch
+Kd 0.6719 0.3098 0.1727
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/redstone_torch.png
+d 0.99
+
+newmtl minecraft_block-light_gray_wool
+Kd 0.5570 0.5575 0.5278
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/light_gray_wool.png
+
+newmtl minecraft_block-green_wool
+Kd 0.3327 0.4296 0.1079
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/green_wool.png
+
+newmtl minecraft_block-coal_block
+Kd 0.0628 0.0624 0.0624
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/coal_block.png
+
+newmtl minecraft_block-glass_pane_top
+Kd 0.6676 0.8241 0.8522
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/glass_pane_top.png
+d 0.99
+
+newmtl minecraft_block-nether_bricks
+Kd 0.1737 0.0858 0.1023
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/nether_bricks.png
+
+newmtl jmc2obj_block-redstone_dust_dot
+Kd 0.4107 0.0000 0.0000
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/jmc2obj/block/redstone_dust_dot.png
+d 0.992obj/block/redstone_dust_dot.png
+
+newmtl minecraft_entity-skeleton-skeleton
+Kd 0.6590 0.6566 0.6585
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/entity/skeleton/skeleton.png
+d 0.99
+
+newmtl minecraft_block-glass
+Kd 0.6895 0.8389 0.8589
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/glass.png
+d 0.99
+
+newmtl minecraft_block-pumpkin_top
+Kd 0.7769 0.4656 0.0959
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/pumpkin_top.png
+
+newmtl minecraft_block-spawner
+Kd 0.1428 0.1818 0.2463
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/spawner.png
+d 0.99
+
+newmtl minecraft_block-sponge
+Kd 0.7680 0.7535 0.2926
+Ks 0.0000 0.0000 0.0000
+map_Kd tex/minecraft/block/sponge.png
